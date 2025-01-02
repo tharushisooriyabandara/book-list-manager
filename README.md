@@ -21,9 +21,14 @@ To create a simple web application that allows users to manage a list of books. 
   - `publicationDate`  
 
 ## Technologies  
-- HTML  
-- CSS  
-- JavaScript  
-- Angular  
-- ASP.NET  
-- C#  
+
+### Frontend:  
+- **HTML:** Structure the application interface.  
+- **CSS:** Style the interface for a better user experience.  
+- **JavaScript & Angular:** Create dynamic and responsive web components.  
+
+### Backend:  
+- **ASP.NET Core:** Build and manage the backend API.  
+- **C#:** Implement logic for CRUD operations.  
+
+
